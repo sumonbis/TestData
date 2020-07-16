@@ -1,1 +1,1 @@
-print(q, p, p * q, sep=",")
+add(p, 12, 'so', s = '3')
